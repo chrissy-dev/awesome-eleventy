@@ -18,7 +18,9 @@
 
 - [Starter Projects](#starter-projects)
 - [Tutorials and Guides](#tutorials-and-guides)
+- [Screencasts](#screencasts)
 - [Sites using Eleventy](#sites-using-eleventy)
+
 
 
 ## Starter Projects
@@ -39,6 +41,17 @@ A scaffold for a quick start building with the Eleventy SSG.
 
 - [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty. 
 - [Static Indieweb - Using Webmentions](https://mxb.dev/blog/using-webmentions-on-static-sites/) - How [Max Böck](https://mxb.dev) added webmentions to his Eleventy site.
+
+## Screencasts 
+- Building a Static Site with Eleventy
+	- [Building a Static Site with Eleventy - Part 1](https://www.youtube.com/watch?v=p7TkCS01lI8)
+	- [Static Sites Using Data - Part 2](https://www.youtube.com/watch?v=JpK0G4vQjZI)
+	- [Creating a reusable simple content template - Part 3](https://www.youtube.com/watch?v=iHHxd5L_gIo)
+	- [Collections - Part 4](https://www.youtube.com/watch?v=xzH2XZubgEk)
+	- [Custom Homepage - Part 5](https://www.youtube.com/watch?v=5MpfJNdPnNs)
+	- [Contact Page and Deploying to Netlify - Part 6](https://www.youtube.com/watch?v=Rw75idHWPi4)
+- [Simplifying Content Management With Eleventy.js and Netlify CMS](https://www.youtube.com/watch?v=883iX2E57kc)
+
 
 ## Sites using Eleventy
 
