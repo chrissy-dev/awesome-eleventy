@@ -41,7 +41,7 @@ A scaffold for a quick start building with the Eleventy SSG.
 
 - [Turn Jekyll up to Eleventy](https://24ways.org/2018/turn-jekyll-up-to-eleventy/) - An excellent article explaining the differences and similarities between Jekyll and 11ty. 
 - [Static Indieweb - Using Webmentions](https://mxb.dev/blog/using-webmentions-on-static-sites/) - How [Max Böck](https://mxb.dev) added webmentions to his Eleventy site.
-
+- [Consuming a headless CMS GraphQL API with Eleventy](https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/) - Consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.
 ## Screencasts 
 - Building a Static Site with Eleventy
 	- [Building a Static Site with Eleventy - Part 1](https://www.youtube.com/watch?v=p7TkCS01lI8)
