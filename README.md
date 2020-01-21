@@ -34,7 +34,7 @@ A scaffold for a quick start building with the Eleventy SSG.
 - [Deventy](https://github.com/ianrose/deventy) - A minimal 11ty starting point for building static websites with modern tools.
 - [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) - A boilerplate for building a simple website with the Eleventy static site generator.
 - [Eleventy Starter Ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy.
-- [Web Starter](https://github.com/chrisssycollins/web-starter) - A modern static website workflow using Eleventy, Tailwind CSS, Webpack and PostCSS. 
+- [JAMStack Web Starter](https://github.com/scottishstoater/web-starter) - A modern static website workflow using Eleventy, Tailwind CSS, Webpack and PostCSS. 
 
 
 ## Tutorials and guides
