@@ -36,7 +36,7 @@ A scaffold for a quick start building with the Eleventy SSG.
 - [Eleventy Starter Ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy.
 - [JAMStack Web Starter](https://github.com/scottishstoater/web-starter) - A modern static website workflow using Eleventy, Tailwind CSS, Webpack and PostCSS. 
 - [Eleventy Starter Boilerplate](https://creativedesignsguru.com/demo/Eleventy-Starter-Boilerplate/eleventy-starter-boilerplate-presentation/) - 🚀 Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog. ⚡️ Built with Eleventy, ESLint, Prettier, Webpack, PostCSS, Tailwind CSS.
-- [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A starter site for building a mind garden in Eleventy.
+- [Eleventy Garden](https://github.com/b3u/eleventy-garden) - A starter site for building a [mind garden](https://nesslabs.com/mind-garden) in Eleventy.
 
 ## Tutorials and guides
 
